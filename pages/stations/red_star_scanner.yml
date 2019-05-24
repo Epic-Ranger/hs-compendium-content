@@ -5,21 +5,23 @@ icon: icons/stations/red_star_scanner.png
 content:
   - type: text
     text: >
-      Detects nearby Red Stars.
-
+      en: > Detects nearby Red Stars.
+ de: > Scannt nach Roten Riesen(RR)
   - type: excel-table
     filename: tables/stations.xlsx
     sheet: RedStarScanner
 
   - type: title
-    text: Red Star Levels
+    text: en: > Red Star Levels
+    de: > RR-Stationsstufen
 
   - type: excel-table
     filename: tables/stations.xlsx
     sheet: RedStarLevels
 
   - type: title
-    text: Red Star Influence
+    text: en: > Red Star Influence
+    de:> RR Einfluss
 
   - type: excel-table
     filename: tables/stations.xlsx
