@@ -1,16 +1,20 @@
-title: Research Station
+title: 
+en: Research Station
+de: Forschungsstation
 subtitle: Research Station
 type: page
 icon: icons/stations/research_station.png
 content:
   - type: text
     text: >
-      The research station can store and research Artifacts. Sent your Transport ship to the Research Station
+     en: >  The research station can store and research Artifacts. Sent your Transport ship to the Research Station
       to automatically deposit new Artifacts.
+     de: > Bis zu 4 Artefakte aus RR-Missionen werden hier gelagert und nach einandern automatisch erforscht. Je seltener das Artefakt ist, umso wertvoller sind die Belohnungen(Blaupausen, Cr, H2)
 
   - type: text
     text: >
-      Can also be used to salvage unwanted artifacts. You can salvage artifacts from transports parked at the station all at once.
+      en: Can also be used to salvage unwanted artifacts. You can salvage artifacts from transports parked at the station all at once.
+de: Alternativ können Artefakte verwertet werden, dafür werden Kredits und Hydro ausgezahlt.
 
   - type: excel-table
     filename: tables/stations.xlsx
