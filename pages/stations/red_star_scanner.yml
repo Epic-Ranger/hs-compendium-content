@@ -16,8 +16,8 @@ content:
   - type: title
     text: >
     
-    en: > Red Star Levels
-    de: > RR-Stationsstufen
+ en: > Red Star Levels
+ de: > RR-Stationsstufen
 
   - type: excel-table
     filename: tables/stations.xlsx
@@ -26,8 +26,8 @@ content:
   - type: title
     text: >
     
-    en: > Red Star Influence
-    de: > RR Einfluss
+  en: > Red Star Influence
+  de: > RR Einfluss
 
   - type: excel-table
     filename: tables/stations.xlsx
