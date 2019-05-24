@@ -14,7 +14,8 @@ content:
     sheet: RedStarScanner
 
   - type: title
-    text: 
+    text: >
+    
     en: > Red Star Levels
     de: > RR-Stationsstufen
 
@@ -23,9 +24,10 @@ content:
     sheet: RedStarLevels
 
   - type: title
-    text: 
+    text: >
+    
     en: > Red Star Influence
-    de:> RR Einfluss
+    de: > RR Einfluss
 
   - type: excel-table
     filename: tables/stations.xlsx
